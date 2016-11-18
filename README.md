@@ -1,3 +1,5 @@
+
+clase 2 Mariana ejercicios Git
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
 
